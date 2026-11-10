@@ -7,6 +7,9 @@ layout: default
 
 ## Writeups
 
+### Hanshow Nebular Pro ESL
+- [Hanshowned](hanshow/hanshowned.html)
+
 ### Autel EVO Nano+
 
 Poking at a discontinued drone to keep it flying and useful.
