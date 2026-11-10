@@ -4,3 +4,12 @@
 
 layout: default
 ---
+
+## Writeups
+
+### Autel EVO Nano+
+
+Poking at a discontinued drone to keep it flying and useful.
+
+- [Getting a root shell](autel_evo_nano/drone-pwn.html)
+- [SD Card Shenanigans](autel_evo_nano/sd-card-shenanigans.html)

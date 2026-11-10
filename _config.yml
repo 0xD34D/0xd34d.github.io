@@ -21,7 +21,7 @@
 title: "0xD34D's Space"
 email: "0xd34d@scheffsblend.com"
 description: >- # this means to ignore newlines until "baseurl:"
- Ramblings of a mad man.
+ Ramblings of a lunatic.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://0xd34d.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "0xD34D"
